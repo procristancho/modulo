@@ -73,8 +73,8 @@ El módulo `formodul.py` contiene la clase `Formulario`, que permite crear un fo
 
 1. Clona este repositorio
      ```bash
-       git clone https://github.com/procristancho/formulario-generador.git
-       cd formulario-generador
+       git clone https://github.com/procristancho/modulo.git
+       cd modulo
 
 
 2. Ejecuta el script `ar.py` que puedes abrir en cualquier navegador
